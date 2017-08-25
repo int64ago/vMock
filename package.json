@@ -1,0 +1,22 @@
+{
+  "name": "vmock",
+  "version": "0.0.1",
+  "description": "A mock server with interactive interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/int64ago/vMock.git"
+  },
+  "keywords": [
+    "mock"
+  ],
+  "author": "Cody Chan <int64ago@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/int64ago/vMock/issues"
+  },
+  "homepage": "https://github.com/int64ago/vMock#readme"
+}
